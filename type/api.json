@@ -1,0 +1,16 @@
+{
+    "code": 200,
+    "message": "获取API插件列表成功",
+    "data": [
+      {
+        "name": "plugin name",
+        "author": "you plugin",
+        "description": "plugin description",
+        "mode": "api",
+        "url": {
+            "github": "GitHub url",
+            "gitee": null
+        }
+      }
+    ]
+}
