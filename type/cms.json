@@ -1,6 +1,6 @@
 {
     "code": 200,
-    "message": "获取API插件列表成功",
+    "message": "获取cms插件列表成功",
     "data": [
       null
     ]
