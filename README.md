@@ -1,6 +1,6 @@
 # Anon CMS Plugin List
 
-This repository contains a list of themes for Anon CMS.
+This repository contains a list of plugins for Anon CMS.
 
 ## JSON Format
 
