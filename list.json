@@ -3,8 +3,6 @@
     "message": "获取插件类型列表成功",
     "repository": "https://github.com/YuiNijika/AnonCMS-Plugin-API/blob/main/type/",
     "data": {
-        "api": "api.json",
-        "cms": "cms.json",
-        "auto": "auto.json"
+        null
     }
 }
